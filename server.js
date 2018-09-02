@@ -15,7 +15,7 @@ var app = express();
 var PORT = process.env.PORT || 8080;
 
 // static assets
-app.use(Express.static(Path.join(__dirname, "app/public")));
+app.use(express.static(path.join(__dirname, "app/public")));
 	
 // implement bodyParser
 app.use(bodyParser.json());
