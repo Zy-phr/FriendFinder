@@ -1,6 +1,6 @@
 var friends =[
     {
-      "name":"Kaley Cuoco",
+      "name":"Penny",
       "photo":"hhttps://image.tmdb.org/t/p/w1280/dL5h5YNBaGNLnwW5UWr42JMeO1k.jpg",
       "scores":[
         5,
@@ -16,7 +16,7 @@ var friends =[
         ]
     },
     {
-      "name":"Jim Parsons",
+      "name":"Sheldon Cooper",
       "photo":"https://image.tmdb.org/t/p/w1280/xEL0CTyDiSHoSshuDQFV6qAh9aQ.jpg",
       "scores":[
         5,
@@ -32,7 +32,7 @@ var friends =[
         ]
     },
     {
-      "name":"Johnny Galecki",
+      "name":"Leonard Hofstadter",
       "photo":"https://image.tmdb.org/t/p/w1280/6SGbRtkZJo8gpC3YtXWe66tb0pO.jpg",
       "scores":[
         4,
@@ -44,6 +44,38 @@ var friends =[
         4,
         2,
         4,
+        5
+        ]
+      },
+      {
+      "name":"Howard Wolowitz",
+      "photo":"https://image.tmdb.org/t/p/w1280/zic1gEH1qEMHhbm5Vxwp9J2XrAO.jpg",
+      "scores":[
+        4,
+        2,
+        1,
+        5,
+        1,
+        5,
+        3,
+        1,
+        4,
+        3
+        ]
+      },
+      {
+      "name":"Rajesh Koothrappali",
+      "photo":"https://image.tmdb.org/t/p/w1280/6SGbRtkZJo8gpC3YtXWe66tb0pO.jpg",
+      "scores":[
+        4,
+        1,
+        1,
+        3,
+        1,
+        1,
+        3,
+        2,
+        5,
         5
         ]
     }];
