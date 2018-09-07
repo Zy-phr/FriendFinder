@@ -1,7 +1,7 @@
 var friends =[
     {
       "name":"Penny",
-      "photo":"hhttps://image.tmdb.org/t/p/w1280/dL5h5YNBaGNLnwW5UWr42JMeO1k.jpg",
+      "photo":"https://image.tmdb.org/t/p/w1280/dL5h5YNBaGNLnwW5UWr42JMeO1k.jpg",
       "scores":[
         5,
         4,
